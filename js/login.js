@@ -1,4 +1,3 @@
-
 //GERANDO DOIS OBJETOS NO LOCALSTORAGE
 const usuario1 = {
     nomeUsuario:"predo",

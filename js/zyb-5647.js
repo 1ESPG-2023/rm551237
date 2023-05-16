@@ -1,6 +1,4 @@
- 
- 
-// // for (let index = 0; index < liElement.length ; index++) {
+ // // for (let index = 0; index < liElement.length ; index++) {
 // //     console.log(liElement[index].textContent)
 // // }
 // // // console.log(liElement.length)
